@@ -2,7 +2,7 @@
 # Prime Number: A number is said to be prime if number is only divisible by itself and 1.
 try:
     n = int(input('Please Enter a Positive integer Number: '))
-except:
+except ValueError:
     print('Sorry, Invalid input')
     exit()
 

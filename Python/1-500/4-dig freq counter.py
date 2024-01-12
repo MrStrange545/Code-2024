@@ -1,4 +1,4 @@
-# WAP to print how many times a digit has been occured in a given number.
+# WAP to print how many times a digit has been occurred in a given number.
 try:
     n = input('Kindly enter a valid Number: ')
     s = float(n)
